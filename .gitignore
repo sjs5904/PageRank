@@ -1,0 +1,12 @@
+.DS_Store
+out/*
+.idea/*
+*.iml
+/bin/
+*.class
+target/*
+target
+/target/
+/data/
+.project
+.classpath
