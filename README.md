@@ -5,7 +5,7 @@
 # 신뢰도 계산
 한 링크에서 다음링크로 무작위로 진행하며 모든 링크를 계산합니다.
 ## 알고리즘 A: random walk의 한 단계를 시뮬레이션합니다.
-![random_walk_algorithm](https://user-images.githubusercontent.com/49792776/86797666-e5c3a900-c0aa-11ea-9b7f-6c883d4c3105.JPG)
+![random_walk_algorithm](https://user-images.githubusercontent.com/49792776/86797666-e5c3a900-c0aa-11ea-9b7f-6c883d4c3105.JPG)  
 ## PageRank 계산
-![page_rank_algorithm](https://user-images.githubusercontent.com/49792776/86797662-e4927c00-c0aa-11ea-8fda-38a423c7abf4.JPG)
+![page_rank_algorithm](https://user-images.githubusercontent.com/49792776/86797662-e4927c00-c0aa-11ea-8fda-38a423c7abf4.JPG)  
 위의 알고리즘 A를 반복하여 PageRank를 계산합니다.
